@@ -16,7 +16,7 @@ A lightweight testcase generator application implemented using python.
 6. Use the result.zip as the resulting zip (can be immediately imported into Cafe Grader)
 
 ### Example
-Feel free to look at the "example" folder for example usage
+Feel free to look at the "example" folder for example usage (the example is A+B problem on 5e18 input constraints)
 
 ### Contact
 Author: Sirawit Pongnakintr
